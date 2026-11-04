@@ -1,0 +1,47 @@
+{
+  "all-minilm": {
+    "native_dim": 384,
+    "ndcg_full": 0.9584,
+    "ndcg_256": 0.9602,
+    "ndcg_128": 0.9613,
+    "ndcg_64": 0.9657,
+    "ndcg_32": 0.9674,
+    "ndcg_16": 0.9689
+  },
+  "nomic-embed-text": {
+    "native_dim": 768,
+    "ndcg_full": 0.9539,
+    "ndcg_256": 0.9528,
+    "ndcg_128": 0.9531,
+    "ndcg_64": 0.9546,
+    "ndcg_32": 0.9568,
+    "ndcg_16": 0.9537
+  },
+  "mxbai-embed-large": {
+    "native_dim": 1024,
+    "ndcg_full": 0.9703,
+    "ndcg_256": 0.9726,
+    "ndcg_128": 0.9757,
+    "ndcg_64": 0.9757,
+    "ndcg_32": 0.9742,
+    "ndcg_16": 0.9753
+  },
+  "text-embedding-3-small": {
+    "native_dim": 1536,
+    "ndcg_full": 0.9643,
+    "ndcg_256": 0.9651,
+    "ndcg_128": 0.9704,
+    "ndcg_64": 0.9732,
+    "ndcg_32": 0.9763,
+    "ndcg_16": 0.9803
+  },
+  "qwen3-embedding-4b": {
+    "native_dim": 2560,
+    "ndcg_full": 0.983,
+    "ndcg_256": 0.9848,
+    "ndcg_128": 0.9854,
+    "ndcg_64": 0.9884,
+    "ndcg_32": 0.9891,
+    "ndcg_16": 0.9916
+  }
+}

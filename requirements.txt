@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+openai
+llama-index-embeddings-ollama
+google-generativeai
+python-dotenv
+tqdm
+google-genai

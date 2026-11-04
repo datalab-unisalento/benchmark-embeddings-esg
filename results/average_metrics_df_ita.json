@@ -1,0 +1,17 @@
+{
+  "ndcg":{
+    "gemini-embedding-2":0.9686197648
+  },
+  "precision":{
+    "gemini-embedding-2":0.68
+  },
+  "recall":{
+    "gemini-embedding-2":1.0
+  },
+  "map":{
+    "gemini-embedding-2":0.9994444444
+  },
+  "mrr":{
+    "gemini-embedding-2":1.0
+  }
+}
