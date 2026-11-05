@@ -1,7 +1,7 @@
 [
     {
         "query": "Does the company have policies to reduce CO2 emissions?",
-        "domain": "enviromental",
+        "domain": "Environmental",
         "documents": [
             {
                 "text": "The company has implemented a decarbonization strategy that envisions the adoption of renewable energy and energy efficiency measures to reduce CO2 emissions by 40% by 2030.",
@@ -22,7 +22,7 @@
     },
     {
         "query": "Does the company use renewable energy sources?",
-        "domain": "enviromental",
+        "domain": "Environmental",
         "documents": [
             {
                 "text": "Currently, 60% of the energy consumed by the company comes from renewable sources, with the goal of reaching 100% by 2040.",
@@ -43,7 +43,7 @@
     },
     {
         "query": "How is the company addressing climate change?",
-        "domain": "enviromental",
+        "domain": "Environmental",
         "documents": [
             {
                 "text": "The company has adopted a decarbonization plan that includes the use of renewable energy and a 50% reduction in emissions by 2030.",
@@ -64,7 +64,7 @@
     },
     {
         "query": "Does the company adopt measures to reduce waste?",
-        "domain": "enviromental",
+        "domain": "Environmental",
         "documents": [
             {
                 "text": "The company has implemented a circular economy program that aims to reduce waste by 40% over the next five years.",
@@ -85,7 +85,7 @@
     },
     {
         "query": "What are the company's policies on water management?",
-        "domain": "enviromental",
+        "domain": "Environmental",
         "documents": [
             {
                 "text": "The company has implemented a plan to reduce water consumption that includes wastewater recycling and the optimization of production processes to minimize waste.",
@@ -106,7 +106,7 @@
     },
     {
         "query": "Does the company provide information on biodiversity?",
-        "domain": "enviromental",
+        "domain": "Environmental",
         "documents": [
             {
                 "text": "The company has published a detailed report on biodiversity protection initiatives, including reforestation projects and the safeguarding of natural habitats.",
@@ -127,7 +127,7 @@
     },
     {
         "query": "What strategies does the company adopt for managing natural resources?",
-        "domain": "enviromental",
+        "domain": "Environmental",
         "documents": [
             {
                 "text": "The company has implemented policies for sustainable resource use, reducing water consumption and virgin material use by 30% over the last five years.",
@@ -148,7 +148,7 @@
     },
     {
         "query": "Does the company assess the environmental impact of its own supply chain? If so, by what criteria?",
-        "domain": "enviromental",
+        "domain": "Environmental",
         "documents": [
             {
                 "text": "The company conducts an analysis of the environmental impact of the supply chain through periodic supplier audits and assessments of Scope 3 emissions.",
@@ -169,7 +169,7 @@
     },
     {
         "query": "Is the company involved in environmental initiatives?",
-        "domain": "enviromental",
+        "domain": "Environmental",
         "documents": [
             {
                 "text": "The company participates in reforestation programs and biodiversity conservation projects in collaboration with environmental organizations.",
@@ -190,7 +190,7 @@
     },
     {
         "query": "Are there any environmental certifications for the company?",
-        "domain": "enviromental",
+        "domain": "Environmental",
         "documents": [
             {
                 "text": "The company has obtained ISO 14001 certification for environmental management and LEED certification for the energy efficiency of its buildings.",
@@ -211,7 +211,7 @@
     },
     {
         "query": "What is the company's approach to environmental sustainability?",
-        "domain": "enviromental",
+        "domain": "Environmental",
         "documents": [
             {
                 "text": "The company has integrated sustainability throughout all stages of the production cycle, adopting eco-friendly practices and reducing the overall environmental impact.",
@@ -232,7 +232,7 @@
     },
     {
         "query": "Does the company have a sustainability report?",
-        "domain": "enviromental",
+        "domain": "Environmental",
         "documents": [
             {
                 "text": "The company annually publishes a sustainability report that includes data on the environmental, social, and economic impact of its activities.",
@@ -253,7 +253,7 @@
     },
     {
         "query": "What is the company's policy on environmental protection?",
-        "domain": "enviromental",
+        "domain": "Environmental",
         "documents": [
             {
                 "text": "The company is committed to reducing the environmental impact of its activities through sustainability policies and the reduction of CO2 emissions.",
@@ -274,7 +274,7 @@
     },
     {
         "query": "Does the company have an environmental management system?",
-        "domain": "enviromental",
+        "domain": "Environmental",
         "documents": [
             {
                 "text": "The company has implemented an ISO 14001-certified environmental management system to monitor and improve environmental performance.",
@@ -295,7 +295,7 @@
     },
     {
         "query": "What is the company's commitment to environmental responsibility?",
-        "domain": "enviromental",
+        "domain": "Environmental",
         "documents": [
             {
                 "text": "The company is committed to reducing the environmental impact of its activities through sustainability policies and reducing CO2 emissions.",
@@ -316,7 +316,7 @@
     },
     {
         "query": "What is the company's approach to environmental conservation?",
-        "domain": "enviromental",
+        "domain": "Environmental",
         "documents": [
             {
                 "text": "The company adopts environmental conservation policies that include the protection of biodiversity and the reduction of CO2 emissions.",
@@ -337,7 +337,7 @@
     },
     {
         "query": "What is the company's policy on energy efficiency?",
-        "domain": "enviromental",
+        "domain": "Environmental",
         "documents": [
             {
                 "text": "The company has implemented measures to improve the energy efficiency of its facilities and reduce energy consumption.",
@@ -358,7 +358,7 @@
     },
     {
         "query": "What is the company's policy on waste management?",
-        "domain": "enviromental",
+        "domain": "Environmental",
         "documents": [
             {
                 "text": "The company has implemented a waste reduction program that includes recycling and reusing materials to reduce environmental impact.",
@@ -379,7 +379,7 @@
     },
     {
         "query": "What is the company's policy on water conservation?",
-        "domain": "enviromental",
+        "domain": "Environmental",
         "documents": [
             {
                 "text": "The company has implemented measures to reduce water consumption and optimize the use of water resources in production processes.",
@@ -400,7 +400,7 @@
     },
     {
         "query": "What is the company's policy on reducing its carbon footprint?",
-        "domain": "enviromental",
+        "domain": "Environmental",
         "documents": [
             {
                 "text": "The company is committed to reducing CO2 emissions through the adoption of renewable energy and the optimization of production processes.",
@@ -421,7 +421,7 @@
     },
     {
         "query": "What is the company's policy on sustainable procurement?",
-        "domain": "enviromental",
+        "domain": "Environmental",
         "documents": [
             {
                 "text": "The company is committed to selecting certified suppliers and adopting responsible procurement practices to reduce environmental impact.",
@@ -442,7 +442,7 @@
     },
     {
         "query": "What is the company's policy on environmental compliance?",
-        "domain": "enviromental",
+        "domain": "Environmental",
         "documents": [
             {
                 "text": "The company is committed to complying with current environmental regulations and to adopting sustainable practices to reduce the environmental impact of its activities.",
@@ -463,7 +463,7 @@
     },
     {
         "query": "What is the company's policy on environmental protection?",
-        "domain": "enviromental",
+        "domain": "Environmental",
         "documents": [
             {
                 "text": "The company is committed to protecting the environment through sustainability policies and nature conservation projects.",
@@ -484,7 +484,7 @@
     },
     {
         "query": "What is the company's policy on environmental impact assessment?",
-        "domain": "enviromental",
+        "domain": "Environmental",
         "documents": [
             {
                 "text": "The company conducts periodic assessments of the environmental impact of its activities and adopts corrective measures to reduce the overall impact.",
@@ -505,7 +505,7 @@
     },
     {
         "query": "What is the company's policy on environmental risk management?",
-        "domain": "enviromental",
+        "domain": "Environmental",
         "documents": [
             {
                 "text": "The company adopts preventive and environmental risk management measures to reduce potential negative consequences on the territory and the surrounding environment.",
@@ -526,7 +526,7 @@
     },
     {
         "query": "What is the company's policy on environmental conservation?",
-        "domain": "enviromental",
+        "domain": "Environmental",
         "documents": [
             {
                 "text": "The company adopts environmental conservation policies that include the protection of biodiversity and the reduction of CO2 emissions.",
@@ -547,7 +547,7 @@
     },
     {
         "query": "What is the company's policy on environmental sustainability?",
-        "domain": "enviromental",
+        "domain": "Environmental",
         "documents": [
             {
                 "text": "The company has integrated sustainability into all stages of the production cycle, adopting eco-friendly practices and reducing the overall environmental impact.",
@@ -820,7 +820,7 @@
     },
     {
         "query": "What governance principles have been adopted by the company?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company follows the Corporate Governance Code, adopting principles of transparency, accountability, and ethical management. The board of directors supervises compliance with regulations and international standards.",
@@ -841,7 +841,7 @@
     },
     {
         "query": "How is corporate governance involved in the sustainability strategy?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The board of directors has established a dedicated ESG committee to oversee sustainability goals. In addition, sustainability is integrated into the company's strategic decisions.",
@@ -862,7 +862,7 @@
     },
     {
         "query": "What roles and responsibilities do board members have regarding sustainability?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The members of the board of directors are responsible for defining the ESG strategy, overseeing environmental and social impacts, and ensuring compliance with sustainability regulations.",
@@ -883,7 +883,7 @@
     },
     {
         "query": "What measures does the company take to prevent conflicts of interest?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company has implemented a policy of transparency and integrity to prevent conflicts of interest, with a disclosure obligation for all executives and an ethics oversight committee.",
@@ -904,7 +904,7 @@
     },
     {
         "query": "Does the company follow international standards of corporate governance?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company complies with international standards of corporate governance, including the OECD Corporate Governance Code and the EU guidelines on corporate transparency.",
@@ -925,7 +925,7 @@
     },
     {
         "query": "What are the company's policies on ethics and anti-corruption?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company has adopted a code of ethics that includes anti-corruption measures, anonymous reporting channels, and mandatory training for all employees.",
@@ -946,7 +946,7 @@
     },
     {
         "query": "What processes does the company use to ensure compliance with ESG regulations?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company has implemented an internal audit system to monitor compliance with ESG regulations, with periodic reports and independent controls.",
@@ -967,7 +967,7 @@
     },
     {
         "query": "Does the company publish information about the composition of its board of directors?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company publishes an annual report with detailed information on the composition of the board of directors, including data on experience, gender diversity, and the independence of its members.",
@@ -988,7 +988,7 @@
     },
     {
         "query": "How are the members of the board of directors selected?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company uses a selection process based on criteria of competence, experience and independence, with the support of a dedicated nomination committee.",
@@ -1009,7 +1009,7 @@
     },
     {
         "query": "Does the board of directors receive training on sustainability?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company organizes periodic training courses on sustainability for members of the board of directors, with the support of industry experts.",
@@ -1030,7 +1030,7 @@
     },
     {
         "query": "How does the company ensure transparency in its governance practices?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company publishes detailed financial reports, sustainability reports, and minutes of board of directors meetings to ensure the transparency of its activities.",
@@ -1051,7 +1051,7 @@
     },
     {
         "query": "What is the company's approach to risk management in governance?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company has implemented a risk management system that involves the board of directors in the assessment and mitigation of corporate risks, with periodic reporting and ongoing monitoring.",
@@ -1072,7 +1072,7 @@
     },
     {
         "query": "How does the company ensure accountability in its governance structure?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company has clearly defined the roles and responsibilities of each member of the board of directors, with control mechanisms and periodic reporting.",
@@ -1093,7 +1093,7 @@
     },
     {
         "query": "What mechanisms are in place to prevent fraud within the company?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company has implemented internal controls to prevent fraud and abuse, with an anonymous reporting system and an independent audit committee.",
@@ -1114,7 +1114,7 @@
     },
     {
         "query": "How does the company ensure privacy and data protection in its governance practices?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company has implemented data protection and privacy policies in compliance with applicable regulations, with security procedures and employee training.",
@@ -1135,7 +1135,7 @@
     },
     {
         "query": "What is the company's policy on intellectual property rights?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company has defined an intellectual property protection policy, with procedures for the registration and monitoring of patents and trademarks.",
@@ -1156,7 +1156,7 @@
     },
     {
         "query": "How does the company ensure compliance with labor laws and regulations?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company has implemented a human resources management system that includes monitoring of labor laws, training for employees, and channels for reporting violations.",
@@ -1177,7 +1177,7 @@
     },
     {
         "query": "What is the company's policy on diversity and inclusion in the workplace?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company has adopted diversity and inclusion policies that promote gender equity, accessibility, and the integration of people with disabilities.",
@@ -1198,7 +1198,7 @@
     },
     {
         "query": "How does the company ensure fair treatment of its employees?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company has defined internal policies for the fair treatment of employees, with performance evaluation mechanisms, ongoing training, and channels for complaints.",
@@ -1219,7 +1219,7 @@
     },
     {
         "query": "What is the company's policy on health and safety in the workplace?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company has implemented a health and safety management system that includes risk assessments, employee training, and emergency procedures.",
@@ -1240,7 +1240,7 @@
     },
     {
         "query": "How does the company ensure transparency in financial reporting?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company publishes complete and transparent financial statements, with detailed reports on economic performance and key balance-sheet indicators.",
@@ -1261,7 +1261,7 @@
     },
     {
         "query": "What is the company's policy regarding tax compliance and transparency?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company is committed to complying with national and international tax laws, publishing detailed reports on taxes paid and tax compliance policies.",
@@ -1282,7 +1282,7 @@
     },
     {
         "query": "How does the company ensure compliance with accounting standards?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company has implemented an internal control system to ensure compliance with international accounting standards, with periodic reviews and certified reports.",
@@ -1303,7 +1303,7 @@
     },
     {
         "query": "What is the company's policy on financial risk management?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company has defined a financial risk management policy that includes periodic assessments, insurance coverages, and mitigation plans.",
@@ -1324,7 +1324,7 @@
     },
     {
         "query": "How does the company ensure transparency in executive compensation practices?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company publishes reports on executive compensation, with details on the evaluation criteria, the bonuses awarded, and incentive policies.",
@@ -1345,7 +1345,7 @@
     },
     {
         "query": "What is the company's policy on engagement and communication with stakeholders?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company has defined a stakeholder engagement strategy that includes ongoing dialogue, transparency, and responsiveness to stakeholders' needs.",
@@ -1366,7 +1366,7 @@
     },
     {
         "query": "How does the company ensure compliance with competition laws and regulations?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company has implemented a control system to monitor compliance with antitrust laws, with training for employees and periodic reviews.",
@@ -1387,7 +1387,7 @@
     },
     {
         "query": "What is the company's policy on responsible investment and financing?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company has adopted a policy of responsible investing that includes ESG evaluations, transparent disclosure, and active involvement in decision-making processes.",
@@ -1408,7 +1408,7 @@
     },
     {
         "query": "How does the company ensure transparency in the management of the supply chain?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company has implemented a traceability and monitoring system for the supply chain, with supplier controls and periodic sustainability reports.",
@@ -1429,7 +1429,7 @@
     },
     {
         "query": "What is the company's policy on environmental management and sustainability?",
-        "domain": "governance",
+        "domain": "Governance",
         "documents": [
             {
                 "text": "The company has adopted an environmental policy that includes targets for reducing emissions, waste management, and investments in renewable energy.",
@@ -2520,7 +2520,7 @@
     },
     {
         "query": "What strategies has the company adopted for workplace safety?",
-        "domain": "social",
+        "domain": "Social",
         "documents": [
             {
                 "text": "The company has implemented an occupational safety program certified to ISO 45001 standards. It includes periodic audits, mandatory training for employees, and monitoring systems to prevent injuries.",
@@ -2541,7 +2541,7 @@
     },
     {
         "query": "Does the company have training programs for employees?",
-        "domain": "social",
+        "domain": "Social",
         "documents": [
             {
                 "text": "The company offers ongoing training programs for employees, with specific courses on safety, leadership, and skills development. Training is mandatory for all new hires and available online for existing employees.",
@@ -2562,7 +2562,7 @@
     },
     {
         "query": "What employee welfare policies has the company adopted?",
-        "domain": "social",
+        "domain": "Social",
         "documents": [
             {
                 "text": "The company offers employees benefits such as supplementary health insurance, flexible working hours, mental well-being programs and parental support. Additionally, it has launched a smart-working policy to improve work-life balance.",
@@ -2583,7 +2583,7 @@
     },
     {
         "query": "How does the company manage its impact on local communities?",
-        "domain": "social",
+        "domain": "Social",
         "documents": [
             {
                 "text": "The company collaborates with local authorities and NGOs to develop sustainability projects and support for communities. It has established social investment programs to improve infrastructure and economic opportunities in the areas where it operates.",
@@ -2604,7 +2604,7 @@
     },
     {
         "query": "Does the company provide fair working conditions for its employees?",
-        "domain": "social",
+        "domain": "Social",
         "documents": [
             {
                 "text": "The company guarantees fair working conditions through pay equity policies, employee benefits, and compliance with international labor standards. Employees have access to fair and merit-based career paths.",
@@ -2625,7 +2625,7 @@
     },
     {
         "query": "What strategies does the company use to promote work-life balance?",
-        "domain": "social",
+        "domain": "Social",
         "documents": [
             {
                 "text": "The company has introduced smart working policies, flexible working hours, and employee support services to improve work-life balance.",
@@ -2646,7 +2646,7 @@
     },
     {
         "query": "Does the company take measures against harassment and discrimination in the workplace?",
-        "domain": "social",
+        "domain": "Social",
         "documents": [
             {
                 "text": "The company has implemented a zero-tolerance policy against harassment and discrimination in the workplace. It has activated training programs, anonymous reporting channels, and disciplinary procedures to ensure a safe and inclusive workplace.",
@@ -2667,7 +2667,7 @@
     },
     {
         "query": "What actions does the company take to ensure pay equity?",
-        "domain": "social",
+        "domain": "Social",
         "documents": [
             {
                 "text": "The company has implemented a remuneration monitoring system to eliminate the gender pay gap. Each year it publishes a report on pay transparency and adopts pay equity policies.",
@@ -2688,7 +2688,7 @@
     },
     {
         "query": "How is employee data privacy protected?",
-        "domain": "social",
+        "domain": "Social",
         "documents": [
             {
                 "text": "The company has adopted advanced security measures to protect employees' personal data, including encryption, a controlled-access policy, and GDPR compliance.",
@@ -2709,7 +2709,7 @@
     },
     {
         "query": "What are the company's policies for protecting workers' rights?",
-        "domain": "social",
+        "domain": "Social",
         "documents": [
             {
                 "text": "The company adheres to international standards for the protection of workers' rights, ensuring fair contracts, workplace safety, and protection against discrimination. In addition, it has established an internal committee to monitor compliance with labor regulations.",
@@ -2730,7 +2730,7 @@
     },
     {
         "query": "What measures does the company take to promote diversity and inclusion?",
-        "domain": "social",
+        "domain": "Social",
         "documents": [
             {
                 "text": "The company has implemented diversity and inclusion policies, promoting gender equality, pay equity, and access to opportunities for all employees. It has launched awareness-raising and training programs to create an inclusive workplace.",
@@ -2751,7 +2751,7 @@
     },
     {
         "query": "What initiatives has the company launched to support the well-being of its employees?",
-        "domain": "social",
+        "domain": "Social",
         "documents": [
             {
                 "text": "The company has launched employee wellness programs, including psychological support services, sports activities, and initiatives to improve quality of life. It has also introduced flexible working policies to foster a healthy and balanced work environment.",
@@ -2772,7 +2772,7 @@
     },
     {
         "query": "What is the company's approach to employee training and development?",
-        "domain": "social",
+        "domain": "Social",
         "documents": [
             {
                 "text": "The company invests in training and development programs for employees, offering opportunities for professional growth and upgrading of skills. It has created an internal e-learning platform and promotes participation in external courses for personal development.",
@@ -2793,7 +2793,7 @@
     },
     {
         "query": "What measures does the company take to ensure the health and safety of employees?",
-        "domain": "social",
+        "domain": "Social",
         "documents": [
             {
                 "text": "The company has implemented workplace safety protocols, providing personal protective equipment, risk training, and emergency procedures. It conducts regular inspections and audits to monitor compliance with health and safety regulations.",
@@ -2814,7 +2814,7 @@
     },
     {
         "query": "What is the company's policy on feedback and communication with employees?",
-        "domain": "social",
+        "domain": "Social",
         "documents": [
             {
                 "text": "The company promotes a culture of open and transparent feedback, offering internal communication channels, active listening sessions, and periodic surveys to gather employees' opinions and suggestions. It has established a committee for the management of the organizational climate and the resolution of internal conflicts.",
@@ -2835,7 +2835,7 @@
     },
     {
         "query": "What initiatives has the company launched to support the mental health of its employees?",
-        "domain": "social",
+        "domain": "Social",
         "documents": [
             {
                 "text": "The company has launched psychological support and mental health programs for employees, offering counseling, mindfulness sessions, and group activities for emotional well-being. It has also formed an internal support team to manage situations of stress and psychological distress.",
@@ -2856,7 +2856,7 @@
     },
     {
         "query": "What is the company\u2019s policy on employees\u2019 working hours and overtime?",
-        "domain": "social",
+        "domain": "Social",
         "documents": [
             {
                 "text": "The company complies with regulations on working hours and overtime, ensuring a work-life balance. It monitors and records working hours to prevent excessive overtime and promotes flexible working policies to support employees' well-being.",
@@ -2877,7 +2877,7 @@
     },
     {
         "query": "What is the company's approach to evaluating employee performance?",
-        "domain": "social",
+        "domain": "Social",
         "documents": [
             {
                 "text": "The company adopts a performance evaluation system based on clear objectives, continuous feedback, and skills development. It promotes a culture of learning and continuous improvement, offering opportunities for growth and merit-based recognition.",
@@ -2898,7 +2898,7 @@
     },
     {
         "query": "What is the company's policy on employee benefits and allowances?",
-        "domain": "social",
+        "domain": "Social",
         "documents": [
             {
                 "text": "The company offers a wide range of employee benefits and perks, including supplementary health insurance, meal vouchers, family care services, and discounts on company products. It promotes welfare initiatives to improve employees' quality of life and foster employee retention.",
@@ -2919,7 +2919,7 @@
     },
     {
         "query": "What is the company's policy on employee training and development?",
-        "domain": "social",
+        "domain": "Social",
         "documents": [
             {
                 "text": "The company invests in training and development programs for employees, offering opportunities for professional growth and updating their skills. It has created an internal e-learning platform and promotes participation in external courses for personal development.",

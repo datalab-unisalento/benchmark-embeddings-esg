@@ -1,0 +1,74 @@
+{
+  "all-minilm": {
+    "dim": 384,
+    "n": 1248,
+    "total_s": 6.923138593003387,
+    "per_text_ms_mean": 5.5465034542335045,
+    "per_text_ms_median": 5.196076996071497,
+    "texts_per_s": 180.2650608874485
+  },
+  "granite-embedding:278m": {
+    "dim": 768,
+    "n": 1248,
+    "total_s": 22.66951798399532,
+    "per_text_ms_mean": 18.16338268342103,
+    "per_text_ms_median": 16.4930370010552,
+    "texts_per_s": 55.05189836330389
+  },
+  "nomic-embed-text": {
+    "dim": 768,
+    "n": 1248,
+    "total_s": 24.662925256998278,
+    "per_text_ms_mean": 19.760569742740515,
+    "per_text_ms_median": 18.350926002312917,
+    "texts_per_s": 50.602269884667116
+  },
+  "embeddinggemma:300m": {
+    "dim": 768,
+    "n": 1248,
+    "total_s": 28.90394878599909,
+    "per_text_ms_mean": 23.158840787789067,
+    "per_text_ms_median": 21.769880499050487,
+    "texts_per_s": 43.17749139538069
+  },
+  "mxbai-embed-large": {
+    "dim": 1024,
+    "n": 1248,
+    "total_s": 58.8577560029953,
+    "per_text_ms_mean": 47.160187491062274,
+    "per_text_ms_median": 44.129927999165375,
+    "texts_per_s": 21.203662605426015
+  },
+  "bge-m3": {
+    "dim": 1024,
+    "n": 1248,
+    "total_s": 64.48334789399814,
+    "per_text_ms_mean": 51.667832959193944,
+    "per_text_ms_median": 49.083224999776576,
+    "texts_per_s": 19.353833830891386
+  },
+  "nomic-embed-text-v2-moe": {
+    "dim": 768,
+    "n": 1248,
+    "total_s": 48.41446012399683,
+    "per_text_ms_mean": 38.79203771221467,
+    "per_text_ms_median": 36.567315000866074,
+    "texts_per_s": 25.777422629596224
+  },
+  "qwen3-embedding:0.6b": {
+    "dim": 1024,
+    "n": 1248,
+    "total_s": 84.97001153000019,
+    "per_text_ms_mean": 68.08347569316982,
+    "per_text_ms_median": 62.35153049783548,
+    "texts_per_s": 14.687534784661894
+  },
+  "qwen3-embedding:4b": {
+    "dim": 2560,
+    "n": 1248,
+    "total_s": 277.99555180800235,
+    "per_text_ms_mean": 222.75134348147637,
+    "per_text_ms_median": 207.24173800408607,
+    "texts_per_s": 4.489280464681433
+  }
+}

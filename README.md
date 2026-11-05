@@ -19,7 +19,8 @@ The benchmark accompanies the paper *Benchmarking Embedding Models for ESG Data*
 | Records | 312 | 312 |
 
 - **Creation**: queries and candidate documents were generated with GPT-4.1 using structured prompts, balanced across the three ESG pillars (Environmental, Social, Governance). Every record was then reviewed by an ESG domain expert on semantic accuracy, relevance grades, factual correctness, and retrieval realism. 63 records per language were excluded in review.
-- **Relevance grades**: 3 = highly relevant, 2 = moderately relevant, 0 = irrelevant. For Precision, a document counts as relevant when its grade is greater than 1.
+- **Relevance grades**: 3 = highly relevant, 2 = moderately relevant, 0 = irrelevant. Relevance is graded for NDCG; for the binary metrics (MRR, Precision@1 on the pool), a document counts as relevant when its grade is greater than 1.
+- **Domain labels**: each record has a `domain` field with one of three values: `Environmental`, `Governance`, or `Social`.
 
 Each file is a JSON array of records:
 
@@ -58,11 +59,13 @@ Each query is scored against its three documents by cosine similarity between th
 | Metric | Definition |
 |--------|-----------|
 | **NDCG** | Normalized Discounted Cumulative Gain over graded relevance (`sklearn.metrics.ndcg_score`). Primary metric. |
-| **Precision** | Fraction of documents with similarity > 0.5 that are relevant (grade > 1). |
+| **Precision@1** | Candidate-pool analysis only: the top-ranked document has relevance > 1. |
 | **MAP** | Mean Average Precision over the ranked list. |
 | **MRR** | Mean Reciprocal Rank of the first relevant document. |
 
 `embed_eval.py` also computes Recall, but it is always 1.0 because the candidate list is the full set of documents for each query, so it is not reported.
+
+`embed_eval.py` also writes a fixed-threshold precision (similarity > 0.5) to the aggregate files. The paper does not report it, because a fixed similarity cutoff is not comparable across models.
 
 ## Results
 
@@ -118,6 +121,21 @@ The language argument accepts `English` or `Italian`.
 
 `genvec.py` skips any model whose output file already exists.
 
+### Candidate-pool and significance analyses
+
+These need the per-model embedding files written by `genvec.py` in `results/` (they are not in this repository because of their size; run `genvec.py` to create them).
+
+```bash
+python3 src/significance.py results English    # bootstrap CIs and paired tests
+python3 src/distractor_eval.py results English --negatives 17   # 3 candidates + 17 same-category negatives
+```
+
+The distractor results for the paper are in `results/distractor_{English,Italian}.json`.
+
+### Storage and latency
+
+`results/latency.json` holds the local (CPU, Ollama) timings reported in the paper. Re-run with `python3 src/latency.py results/latency.json` (requires a running Ollama server and the models from `pull_models.sh`).
+
 ### Dimensionality experiment
 
 This experiment reduces the embeddings of five models with PCA (256, 128, 64, 32, 16 dimensions) and re-evaluates NDCG:
@@ -148,6 +166,9 @@ python3 src/plot_dim_experiment.py # plots both languages (no arguments)
 ├── pull_models.sh                     # Download Ollama models
 ├── run_experiments.sh                 # Full benchmark, both languages
 ├── run_dim_experiments.sh             # Dimensionality experiment
+├── src/significance.py               # Bootstrap CIs and paired model comparisons
+├── src/distractor_eval.py            # Harder candidate pool (3 + 17 negatives)
+├── src/latency.py                    # Local embedding latency via Ollama
 ├── requirements.txt                   # Python dependencies
 └── LICENSE                            # Apache License 2.0
 ```

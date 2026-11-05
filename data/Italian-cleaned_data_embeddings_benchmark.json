@@ -1,7 +1,7 @@
 [
     {
         "query":"L'azienda ha politiche per la riduzione delle emissioni di CO2?",
-        "domain":"enviromental",
+        "domain":"Environmental",
         "documents":[
             {
                 "text":"L'azienda ha implementato una strategia di decarbonizzazione che prevede l'adozione di energie rinnovabili e l'efficienza energetica per ridurre le emissioni di CO2 del 40% entro il 2030.",
@@ -22,7 +22,7 @@
     },
     {
         "query":"L'azienda utilizza fonti di energia rinnovabile?",
-        "domain":"enviromental",
+        "domain":"Environmental",
         "documents":[
             {
                 "text":"Attualmente, il 60% dell'energia consumata dall'azienda proviene da fonti rinnovabili, con l'obiettivo di raggiungere il 100% entro il 2040.",
@@ -43,7 +43,7 @@
     },
     {
         "query":"In che modo l'azienda affronta il cambiamento climatico?",
-        "domain":"enviromental",
+        "domain":"Environmental",
         "documents":[
             {
                 "text":"L'azienda ha adottato un piano di decarbonizzazione che include l'uso di energia rinnovabile e la riduzione delle emissioni del 50% entro il 2030.",
@@ -64,7 +64,7 @@
     },
     {
         "query":"L'azienda adotta misure per la riduzione dei rifiuti?",
-        "domain":"enviromental",
+        "domain":"Environmental",
         "documents":[
             {
                 "text":"L'azienda ha implementato un programma di economia circolare che punta a ridurre i rifiuti del 40% nei prossimi cinque anni.",
@@ -85,7 +85,7 @@
     },
     {
         "query":"Quali sono le politiche aziendali sulla gestione dell'acqua?",
-        "domain":"enviromental",
+        "domain":"Environmental",
         "documents":[
             {
                 "text":"L'azienda ha implementato un piano di riduzione del consumo idrico che include il riciclo delle acque reflue e l'ottimizzazione dei processi produttivi per minimizzare lo spreco.",
@@ -106,7 +106,7 @@
     },
     {
         "query":"L'azienda fornisce informazioni sulla biodiversit\u00e0?",
-        "domain":"enviromental",
+        "domain":"Environmental",
         "documents":[
             {
                 "text":"L'azienda ha pubblicato un report dettagliato sulle iniziative per la protezione della biodiversit\u00e0, inclusi progetti di riforestazione e tutela degli habitat naturali.",
@@ -127,7 +127,7 @@
     },
     {
         "query":"Quali strategie adotta l'azienda per la gestione delle risorse naturali?",
-        "domain":"enviromental",
+        "domain":"Environmental",
         "documents":[
             {
                 "text":"L'azienda ha implementato politiche di utilizzo sostenibile delle risorse, riducendo il consumo di acqua e materiali vergini del 30% negli ultimi cinque anni.",
@@ -148,7 +148,7 @@
     },
     {
         "query":"L'azienda valuta l'impatto ambientale della propria supply chain? Se s\u00ec, con quali criteri?",
-        "domain":"enviromental",
+        "domain":"Environmental",
         "documents":[
             {
                 "text":"L'azienda effettua un'analisi dell'impatto ambientale della supply chain attraverso audit periodici sui fornitori e valutazioni delle emissioni Scope 3.",
@@ -169,7 +169,7 @@
     },
     {
         "query":"L'azienda \u00e8 coinvolta in iniziative ambientali?",
-        "domain":"enviromental",
+        "domain":"Environmental",
         "documents":[
             {
                 "text":"L'azienda partecipa a programmi di riforestazione e progetti di conservazione della biodiversit\u00e0 in collaborazione con organizzazioni ambientali.",
@@ -190,7 +190,7 @@
     },
     {
         "query":"Sono presenti certificazioni ambientali per l'azienda?",
-        "domain":"enviromental",
+        "domain":"Environmental",
         "documents":[
             {
                 "text":"L'azienda ha ottenuto la certificazione ISO 14001 per la gestione ambientale e la certificazione LEED per l'efficienza energetica dei suoi edifici.",
@@ -211,7 +211,7 @@
     },
     {
         "query":"Qual \u00e8 l'approccio dell'azienda alla sostenibilit\u00e0 ambientale?",
-        "domain":"enviromental",
+        "domain":"Environmental",
         "documents":[
             {
                 "text":"L'azienda ha integrato la sostenibilit\u00e0 in tutte le fasi del ciclo produttivo, adottando pratiche eco-compatibili e riducendo l'impatto ambientale complessivo.",
@@ -232,7 +232,7 @@
     },
     {
         "query":"L'azienda ha un report sulla sostenibilit\u00e0?",
-        "domain":"enviromental",
+        "domain":"Environmental",
         "documents":[
             {
                 "text":"L'azienda pubblica annualmente un report di sostenibilit\u00e0 che include dati sull'impatto ambientale, sociale ed economico delle proprie attivit\u00e0.",
@@ -253,7 +253,7 @@
     },
     {
         "query":"Qual \u00e8 la politica dell'azienda sulla protezione dell'ambiente?",
-        "domain":"enviromental",
+        "domain":"Environmental",
         "documents":[
             {
                 "text":"L'azienda si impegna a ridurre l'impatto ambientale delle proprie attivit\u00e0 attraverso politiche di sostenibilit\u00e0 e riduzione delle emissioni di CO2.",
@@ -274,7 +274,7 @@
     },
     {
         "query":"L'azienda ha un sistema di gestione ambientale?",
-        "domain":"enviromental",
+        "domain":"Environmental",
         "documents":[
             {
                 "text":"L'azienda ha implementato un sistema di gestione ambientale certificato ISO 14001 per monitorare e migliorare le performance ambientali.",
@@ -295,7 +295,7 @@
     },
     {
         "query":"Qual \u00e8 l'impegno dell'azienda verso la responsabilit\u00e0 ambientale?",
-        "domain":"enviromental",
+        "domain":"Environmental",
         "documents":[
             {
                 "text":"L'azienda si impegna a ridurre l'impatto ambientale delle proprie attivit\u00e0 attraverso politiche di sostenibilit\u00e0 e riduzione delle emissioni di CO2.",
@@ -316,7 +316,7 @@
     },
     {
         "query":"Qual \u00e8 l'approccio dell'azienda alla conservazione dell'ambiente?",
-        "domain":"enviromental",
+        "domain":"Environmental",
         "documents":[
             {
                 "text":"L'azienda adotta politiche di conservazione ambientale che includono la protezione della biodiversit\u00e0 e la riduzione delle emissioni di CO2.",
@@ -337,7 +337,7 @@
     },
     {
         "query":"Qual \u00e8 la politica dell'azienda sull'efficienza energetica?",
-        "domain":"enviromental",
+        "domain":"Environmental",
         "documents":[
             {
                 "text":"L'azienda ha implementato misure per migliorare l'efficienza energetica dei propri impianti e ridurre i consumi.",
@@ -358,7 +358,7 @@
     },
     {
         "query":"Qual \u00e8 la politica dell'azienda sulla gestione dei rifiuti?",
-        "domain":"enviromental",
+        "domain":"Environmental",
         "documents":[
             {
                 "text":"L'azienda ha implementato un programma di riduzione dei rifiuti che include il riciclo e il riutilizzo dei materiali per ridurre l'impatto ambientale.",
@@ -379,7 +379,7 @@
     },
     {
         "query":"Qual \u00e8 la politica dell'azienda sulla conservazione dell'acqua?",
-        "domain":"enviromental",
+        "domain":"Environmental",
         "documents":[
             {
                 "text":"L'azienda ha implementato misure per ridurre il consumo idrico e ottimizzare l'uso delle risorse idriche nei processi produttivi.",
@@ -400,7 +400,7 @@
     },
     {
         "query":"Qual \u00e8 la politica dell'azienda sulla riduzione dell'impronta di carbonio?",
-        "domain":"enviromental",
+        "domain":"Environmental",
         "documents":[
             {
                 "text":"L'azienda si impegna a ridurre le emissioni di CO2 attraverso l'adozione di energie rinnovabili e l'ottimizzazione dei processi produttivi.",
@@ -421,7 +421,7 @@
     },
     {
         "query":"Qual \u00e8 la politica dell'azienda sull'approvvigionamento sostenibile?",
-        "domain":"enviromental",
+        "domain":"Environmental",
         "documents":[
             {
                 "text":"L'azienda si impegna a selezionare fornitori certificati e adottare pratiche di approvvigionamento responsabile per ridurre l'impatto ambientale.",
@@ -442,7 +442,7 @@
     },
     {
         "query":"Qual \u00e8 la politica dell'azienda sulla conformit\u00e0 ambientale?",
-        "domain":"enviromental",
+        "domain":"Environmental",
         "documents":[
             {
                 "text":"L'azienda si impegna a rispettare le normative ambientali vigenti e adottare pratiche sostenibili per ridurre l'impatto ambientale delle proprie attivit\u00e0.",
@@ -463,7 +463,7 @@
     },
     {
         "query":"Qual \u00e8 la politica dell'azienda sulla tutela dell'ambiente?",
-        "domain":"enviromental",
+        "domain":"Environmental",
         "documents":[
             {
                 "text":"L'azienda si impegna a proteggere l'ambiente attraverso politiche di sostenibilit\u00e0 e progetti di conservazione della natura.",
@@ -484,7 +484,7 @@
     },
     {
         "query":"Qual \u00e8 la politica dell'azienda sulla valutazione dell'impatto ambientale?",
-        "domain":"enviromental",
+        "domain":"Environmental",
         "documents":[
             {
                 "text":"L'azienda effettua valutazioni periodiche dell'impatto ambientale delle proprie attivit\u00e0 e adotta misure correttive per ridurre l'impatto complessivo.",
@@ -505,7 +505,7 @@
     },
     {
         "query":"Qual \u00e8 la politica dell'azienda sulla gestione del rischio ambientale?",
-        "domain":"enviromental",
+        "domain":"Environmental",
         "documents":[
             {
                 "text":"L'azienda adotta misure di prevenzione e gestione del rischio ambientale per ridurre le possibili conseguenze negative sul territorio e l'ambiente circostante.",
@@ -526,7 +526,7 @@
     },
     {
         "query":"Qual \u00e8 la politica dell'azienda sulla conservazione dell'ambiente?",
-        "domain":"enviromental",
+        "domain":"Environmental",
         "documents":[
             {
                 "text":"L'azienda adotta politiche di conservazione ambientale che includono la protezione della biodiversit\u00e0 e la riduzione delle emissioni di CO2.",
@@ -547,7 +547,7 @@
     },
     {
         "query":"Qual \u00e8 la politica dell'azienda sulla sostenibilit\u00e0 ambientale?",
-        "domain":"enviromental",
+        "domain":"Environmental",
         "documents":[
             {
                 "text":"L'azienda ha integrato la sostenibilit\u00e0 in tutte le fasi del ciclo produttivo, adottando pratiche eco-compatibili e riducendo l'impatto ambientale complessivo.",
@@ -820,7 +820,7 @@
     },
     {
         "query":"Quali sono i principi di governance adottati dall\u2019azienda?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda segue il Codice di Corporate Governance, adottando principi di trasparenza, responsabilit\u00e0 e gestione etica. Il consiglio di amministrazione supervisiona il rispetto delle normative e degli standard internazionali.",
@@ -841,7 +841,7 @@
     },
     {
         "query":"In che modo la governance aziendale \u00e8 coinvolta nella strategia di sostenibilit\u00e0?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"Il consiglio di amministrazione ha istituito un comitato ESG dedicato per supervisionare gli obiettivi di sostenibilit\u00e0. Inoltre, integra la sostenibilit\u00e0 nelle decisioni strategiche aziendali.",
@@ -862,7 +862,7 @@
     },
     {
         "query":"Quali ruoli e responsabilit\u00e0 hanno i membri del consiglio di amministrazione sulla sostenibilit\u00e0?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"I membri del consiglio di amministrazione sono responsabili della definizione della strategia ESG, della supervisione degli impatti ambientali e sociali e della conformit\u00e0 alle normative di sostenibilit\u00e0.",
@@ -883,7 +883,7 @@
     },
     {
         "query":"Quali misure adotta l'azienda per prevenire i conflitti di interesse?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda ha implementato una politica di trasparenza e integrit\u00e0 per prevenire i conflitti di interesse, con obbligo di dichiarazione per tutti i dirigenti e un comitato di supervisione etica.",
@@ -904,7 +904,7 @@
     },
     {
         "query":"L'azienda segue standard internazionali di corporate governance?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda \u00e8 conforme agli standard internazionali di corporate governance, tra cui il Codice di Governance dell'OCSE e le linee guida dell'UE sulla trasparenza aziendale.",
@@ -925,7 +925,7 @@
     },
     {
         "query":"Quali sono le politiche aziendali in materia di etica e anticorruzione?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda ha adottato un codice etico che include misure di prevenzione della corruzione, canali di segnalazione anonima e formazione obbligatoria per tutti i dipendenti.",
@@ -946,7 +946,7 @@
     },
     {
         "query":"Quali processi utilizza l'azienda per garantire il rispetto delle normative ESG?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda ha implementato un sistema di audit interno per monitorare la conformit\u00e0 alle normative ESG, con report periodici e controlli indipendenti.",
@@ -967,7 +967,7 @@
     },
     {
         "query":"L'azienda pubblica informazioni sulla composizione del suo consiglio di amministrazione?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda pubblica un report annuale con informazioni dettagliate sulla composizione del consiglio di amministrazione, inclusi dati su esperienza, diversit\u00e0 di genere e indipendenza dei membri.",
@@ -988,7 +988,7 @@
     },
     {
         "query":"Come vengono selezionati i membri del consiglio di amministrazione?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda utilizza un processo di selezione basato su criteri di competenza, esperienza e indipendenza, con il supporto di un comitato nomine dedicato.",
@@ -1009,7 +1009,7 @@
     },
     {
         "query":"Il consiglio di amministrazione riceve formazione sulla sostenibilit\u00e0?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda organizza corsi di formazione periodici sulla sostenibilit\u00e0 per i membri del consiglio di amministrazione, con il supporto di esperti del settore.",
@@ -1030,7 +1030,7 @@
     },
     {
         "query":"Come garantisce l'azienda la trasparenza nelle sue pratiche di governance?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda pubblica relazioni finanziarie dettagliate, report di sostenibilit\u00e0 e verbali delle riunioni del consiglio di amministrazione per garantire la trasparenza delle sue attivit\u00e0.",
@@ -1051,7 +1051,7 @@
     },
     {
         "query":"Quale \u00e8 l'approccio dell'azienda alla gestione del rischio nella governance?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda ha implementato un sistema di gestione del rischio che coinvolge il consiglio di amministrazione nella valutazione e mitigazione dei rischi aziendali, con report periodici e monitoraggio continuo.",
@@ -1072,7 +1072,7 @@
     },
     {
         "query":"Come garantisce l'azienda la responsabilit\u00e0 nella sua struttura di governance?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda ha definito chiaramente i ruoli e le responsabilit\u00e0 di ciascun membro del consiglio di amministrazione, con meccanismi di controllo e rendicontazione periodica.",
@@ -1093,7 +1093,7 @@
     },
     {
         "query":"Quali meccanismi sono in atto per prevenire le frodi nell'azienda?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda ha implementato controlli interni per prevenire frodi e abusi, con un sistema di segnalazione anonima e un comitato di audit indipendente.",
@@ -1114,7 +1114,7 @@
     },
     {
         "query":"Come garantisce l'azienda la privacy e la protezione dei dati nelle sue pratiche di governance?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda ha implementato politiche di protezione dei dati e privacy conformi alle normative vigenti, con procedure di sicurezza e formazione per i dipendenti.",
@@ -1135,7 +1135,7 @@
     },
     {
         "query":"Qual \u00e8 la politica dell'azienda sui diritti di propriet\u00e0 intellettuale?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda ha definito una politica di protezione della propriet\u00e0 intellettuale, con procedure di registrazione e monitoraggio dei brevetti e dei marchi.",
@@ -1156,7 +1156,7 @@
     },
     {
         "query":"Come garantisce l'azienda il rispetto delle leggi e delle normative sul lavoro?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda ha implementato un sistema di gestione delle risorse umane che include monitoraggio delle leggi sul lavoro, formazione per i dipendenti e canali di segnalazione per violazioni.",
@@ -1177,7 +1177,7 @@
     },
     {
         "query":"Qual \u00e8 la politica dell'azienda sulla diversit\u00e0 e l'inclusione sul luogo di lavoro?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda ha adottato politiche di diversit\u00e0 e inclusione che promuovono l'equit\u00e0 di genere, l'accessibilit\u00e0 e l'integrazione di persone con disabilit\u00e0.",
@@ -1198,7 +1198,7 @@
     },
     {
         "query":"Come garantisce l'azienda un trattamento equo dei dipendenti?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda ha definito politiche interne per il trattamento equo dei dipendenti, con meccanismi di valutazione delle performance, formazione continua e canali di reclamo.",
@@ -1219,7 +1219,7 @@
     },
     {
         "query":"Qual \u00e8 la politica dell'azienda sulla salute e sicurezza sul luogo di lavoro?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda ha implementato un sistema di gestione della salute e sicurezza che include valutazioni dei rischi, formazione per i dipendenti e procedure di emergenza.",
@@ -1240,7 +1240,7 @@
     },
     {
         "query":"Come garantisce l'azienda la trasparenza nella rendicontazione finanziaria?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda pubblica relazioni finanziarie complete e trasparenti, con report dettagliati sulle performance economiche e indicatori chiave di bilancio.",
@@ -1261,7 +1261,7 @@
     },
     {
         "query":"Qual \u00e8 la politica dell'azienda in materia di conformit\u00e0 fiscale e trasparenza?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda si impegna a rispettare le leggi fiscali nazionali e internazionali, pubblicando relazioni dettagliate sulle tasse pagate e le politiche di compliance fiscale.",
@@ -1282,7 +1282,7 @@
     },
     {
         "query":"Come garantisce l'azienda il rispetto degli standard contabili?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda ha implementato un sistema di controllo interno per garantire la conformit\u00e0 agli standard contabili internazionali, con revisioni periodiche e report certificati.",
@@ -1303,7 +1303,7 @@
     },
     {
         "query":"Qual \u00e8 la politica dell'azienda sulla gestione del rischio finanziario?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda ha definito una politica di gestione del rischio finanziario che include valutazioni periodiche, coperture assicurative e piani di mitigazione.",
@@ -1324,7 +1324,7 @@
     },
     {
         "query":"Come garantisce l'azienda la trasparenza nelle pratiche di compensazione dei dirigenti?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda pubblica relazioni sulla compensazione dei dirigenti, con dettagli sui criteri di valutazione, i bonus assegnati e le politiche di incentivazione.",
@@ -1345,7 +1345,7 @@
     },
     {
         "query":"Qual \u00e8 la politica dell'azienda sull'engagement e la comunicazione con gli stakeholder?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda ha definito una strategia di coinvolgimento degli stakeholder che include dialogo costante, trasparenza e risposta alle esigenze delle parti interessate.",
@@ -1366,7 +1366,7 @@
     },
     {
         "query":"Come garantisce l'azienda il rispetto delle leggi e delle normative sulla concorrenza?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda ha implementato un sistema di controllo per monitorare la conformit\u00e0 alle leggi antitrust, con formazione per i dipendenti e revisioni periodiche.",
@@ -1387,7 +1387,7 @@
     },
     {
         "query":"Qual \u00e8 la politica dell'azienda sugli investimenti e il finanziamento responsabile?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda ha adottato una politica di investimenti responsabili che include valutazioni ESG, divulgazione trasparente e coinvolgimento attivo nei processi decisionali.",
@@ -1408,7 +1408,7 @@
     },
     {
         "query":"Come garantisce l'azienda la trasparenza nella gestione della catena di approvvigionamento?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda ha implementato un sistema di tracciabilit\u00e0 e monitoraggio della catena di approvvigionamento, con controlli sui fornitori e report periodici sulla sostenibilit\u00e0.",
@@ -1429,7 +1429,7 @@
     },
     {
         "query":"Qual \u00e8 la politica dell'azienda sulla gestione ambientale e la sostenibilit\u00e0?",
-        "domain":"governance",
+        "domain":"Governance",
         "documents":[
             {
                 "text":"L'azienda ha adottato una politica ambientale che include obiettivi di riduzione delle emissioni, gestione dei rifiuti e investimenti in energie rinnovabili.",
@@ -2520,7 +2520,7 @@
     },
     {
         "query":"Quali strategie ha adottato l'azienda per la sicurezza sul lavoro?",
-        "domain":"social",
+        "domain":"Social",
         "documents":[
             {
                 "text":"L'azienda ha implementato un programma di sicurezza sul lavoro certificato secondo gli standard ISO 45001. Include audit periodici, formazione obbligatoria per i dipendenti e sistemi di monitoraggio per prevenire infortuni.",
@@ -2541,7 +2541,7 @@
     },
     {
         "query":"L'azienda ha programmi di formazione per i dipendenti?",
-        "domain":"social",
+        "domain":"Social",
         "documents":[
             {
                 "text":"L'azienda offre programmi di formazione continua per i dipendenti, con corsi specifici su sicurezza, leadership e sviluppo delle competenze. La formazione \u00e8 obbligatoria per tutti i nuovi assunti e disponibile online per i dipendenti esistenti.",
@@ -2562,7 +2562,7 @@
     },
     {
         "query":"Quali sono le politiche di welfare aziendale adottate dall'azienda?",
-        "domain":"social",
+        "domain":"Social",
         "documents":[
             {
                 "text":"L'azienda offre ai dipendenti benefit come assistenza sanitaria integrativa, orari di lavoro flessibili, programmi di benessere mentale e supporto per la genitorialit\u00e0. Inoltre, ha avviato una politica di smart working per migliorare l'equilibrio vita-lavoro.",
@@ -2583,7 +2583,7 @@
     },
     {
         "query":"Come l'azienda gestisce l'impatto sulle comunit\u00e0 locali?",
-        "domain":"social",
+        "domain":"Social",
         "documents":[
             {
                 "text":"L'azienda collabora con enti locali e ONG per sviluppare progetti di sostenibilit\u00e0 e supporto alle comunit\u00e0. Ha istituito programmi di investimento sociale per migliorare infrastrutture e opportunit\u00e0 economiche nelle aree in cui opera.",
@@ -2604,7 +2604,7 @@
     },
     {
         "query":"L'azienda offre condizioni di lavoro eque ai dipendenti?",
-        "domain":"social",
+        "domain":"Social",
         "documents":[
             {
                 "text":"L'azienda garantisce condizioni di lavoro eque attraverso politiche di parit\u00e0 salariale, benefit aziendali e rispetto delle normative internazionali sul lavoro. I dipendenti hanno accesso a percorsi di carriera equi e meritocratici.",
@@ -2625,7 +2625,7 @@
     },
     {
         "query":"Quali strategie utilizza l'azienda per favorire l'equilibrio vita-lavoro?",
-        "domain":"social",
+        "domain":"Social",
         "documents":[
             {
                 "text":"L'azienda ha introdotto politiche di smart working, orari flessibili e servizi di supporto ai dipendenti per migliorare il bilanciamento tra vita privata e lavoro.",
@@ -2646,7 +2646,7 @@
     },
     {
         "query":"L'azienda adotta misure contro molestie e discriminazioni sul lavoro?",
-        "domain":"social",
+        "domain":"Social",
         "documents":[
             {
                 "text":"L'azienda ha implementato una politica di tolleranza zero contro le molestie e la discriminazione sul lavoro. Ha attivato programmi di formazione, linee di segnalazione anonime e procedure disciplinari per garantire un ambiente lavorativo sicuro e inclusivo.",
@@ -2667,7 +2667,7 @@
     },
     {
         "query":"Quali azioni adotta l'azienda per garantire la parit\u00e0 salariale?",
-        "domain":"social",
+        "domain":"Social",
         "documents":[
             {
                 "text":"L'azienda ha implementato un sistema di monitoraggio delle retribuzioni per eliminare il divario salariale di genere. Ogni anno pubblica un report sulla trasparenza retributiva e adotta politiche di equit\u00e0 salariale.",
@@ -2688,7 +2688,7 @@
     },
     {
         "query":"Come viene garantita la protezione della privacy dei dati dei dipendenti?",
-        "domain":"social",
+        "domain":"Social",
         "documents":[
             {
                 "text":"L'azienda ha adottato misure di sicurezza avanzate per la protezione dei dati personali dei dipendenti, tra cui crittografia, policy di accesso controllato e conformit\u00e0 alle normative GDPR.",
@@ -2709,7 +2709,7 @@
     },
     {
         "query":"Quali sono le politiche aziendali per la tutela dei diritti dei lavoratori?",
-        "domain":"social",
+        "domain":"Social",
         "documents":[
             {
                 "text":"L'azienda aderisce a standard internazionali per la tutela dei diritti dei lavoratori, garantendo contratti equi, sicurezza sul lavoro e protezione contro le discriminazioni. Inoltre, ha attivato un comitato interno per monitorare il rispetto delle normative sul lavoro.",
@@ -2730,7 +2730,7 @@
     },
     {
         "query":"Quali misure adotta l'azienda per promuovere diversit\u00e0 e inclusione?",
-        "domain":"social",
+        "domain":"Social",
         "documents":[
             {
                 "text":"L'azienda ha implementato politiche di diversit\u00e0 e inclusione, promuovendo la parit\u00e0 di genere, l'equit\u00e0 salariale e l'accesso alle opportunit\u00e0 per tutti i dipendenti. Ha avviato programmi di sensibilizzazione e formazione per creare un ambiente di lavoro inclusivo.",
@@ -2751,7 +2751,7 @@
     },
     {
         "query":"Quali iniziative ha lanciato l'azienda per sostenere il benessere dei dipendenti?",
-        "domain":"social",
+        "domain":"Social",
         "documents":[
             {
                 "text":"L'azienda ha avviato programmi di benessere per i dipendenti, tra cui servizi di supporto psicologico, attivit\u00e0 sportive e iniziative per il miglioramento della qualit\u00e0 della vita. Ha anche introdotto politiche di flessibilit\u00e0 lavorativa per favorire un ambiente di lavoro sano e equilibrato.",
@@ -2772,7 +2772,7 @@
     },
     {
         "query":"Quale \u00e8 l'approccio dell'azienda alla formazione e allo sviluppo dei dipendenti?",
-        "domain":"social",
+        "domain":"Social",
         "documents":[
             {
                 "text":"L'azienda investe in programmi di formazione e sviluppo per i dipendenti, offrendo opportunit\u00e0 di crescita professionale e aggiornamento delle competenze. Ha creato una piattaforma di e-learning interna e promuove la partecipazione a corsi esterni per lo sviluppo personale.",
@@ -2793,7 +2793,7 @@
     },
     {
         "query":"Quali misure adotta l'azienda per garantire la salute e la sicurezza dei dipendenti?",
-        "domain":"social",
+        "domain":"Social",
         "documents":[
             {
                 "text":"L'azienda ha implementato protocolli di sicurezza sul lavoro, fornendo attrezzature di protezione individuale, formazione sui rischi e procedure di emergenza. Effettua regolari ispezioni e audit per monitorare il rispetto delle normative sulla salute e sicurezza.",
@@ -2814,7 +2814,7 @@
     },
     {
         "query":"Qual \u00e8 la politica dell'azienda sul feedback e la comunicazione con i dipendenti?",
-        "domain":"social",
+        "domain":"Social",
         "documents":[
             {
                 "text":"L'azienda promuove una cultura di feedback aperto e trasparente, offrendo canali di comunicazione interna, sessioni di ascolto attivo e survey periodiche per raccogliere opinioni e suggerimenti dai dipendenti. Ha istituito un comitato per la gestione del clima organizzativo e la risoluzione di conflitti interni.",
@@ -2835,7 +2835,7 @@
     },
     {
         "query":"Quali iniziative ha lanciato l'azienda per sostenere la salute mentale dei dipendenti?",
-        "domain":"social",
+        "domain":"Social",
         "documents":[
             {
                 "text":"L'azienda ha avviato programmi di supporto psicologico e benessere mentale per i dipendenti, offrendo consulenze, sessioni di mindfulness e attivit\u00e0 di gruppo per il benessere emotivo. Ha anche formato un team di supporto interno per gestire situazioni di stress e disagio psicologico.",
@@ -2856,7 +2856,7 @@
     },
     {
         "query":"Qual \u00e8 la politica dell'azienda sulle ore di lavoro e straordinari dei dipendenti?",
-        "domain":"social",
+        "domain":"Social",
         "documents":[
             {
                 "text":"L'azienda rispetta le normative sulle ore di lavoro e gli straordinari, garantendo un equilibrio tra vita privata e lavoro. Monitora e registra le ore lavorative per evitare abusi eccessivi e promuove politiche di flessibilit\u00e0 oraria per favorire il benessere dei dipendenti.",
@@ -2877,7 +2877,7 @@
     },
     {
         "query":"Quale \u00e8 l'approccio dell'azienda alla valutazione delle performance dei dipendenti?",
-        "domain":"social",
+        "domain":"Social",
         "documents":[
             {
                 "text":"L'azienda adotta un sistema di valutazione delle performance basato su obiettivi chiari, feedback continuo e sviluppo delle competenze. Promuove una cultura di apprendimento e miglioramento costante, offrendo opportunit\u00e0 di crescita e riconoscimento per il merito.",
@@ -2898,7 +2898,7 @@
     },
     {
         "query":"Qual \u00e8 la politica dell'azienda sui benefit e le agevolazioni per i dipendenti?",
-        "domain":"social",
+        "domain":"Social",
         "documents":[
             {
                 "text":"L'azienda offre una vasta gamma di benefit e agevolazioni per i dipendenti, tra cui assicurazione sanitaria integrativa, buoni pasto, servizi di assistenza familiare e sconti su prodotti aziendali. Promuove iniziative di welfare per migliorare la qualit\u00e0 della vita dei dipendenti e favorire la fidelizzazione.",
@@ -2919,7 +2919,7 @@
     },
     {
         "query":"Qual \u00e8 la politica dell'azienda sulla formazione e lo sviluppo dei dipendenti?",
-        "domain":"social",
+        "domain":"Social",
         "documents":[
             {
                 "text":"L'azienda investe in programmi di formazione e sviluppo per i dipendenti, offrendo opportunit\u00e0 di crescita professionale e aggiornamento delle competenze. Ha creato una piattaforma di e-learning interna e promuove la partecipazione a corsi esterni per lo sviluppo personale.",
